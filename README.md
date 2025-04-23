@@ -45,7 +45,7 @@
 
 <p align="center">
 <a href=/></a>
-<a href="https://linkedin.com/Milagros Neri"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/milagros-neri-6a5a2b1b2"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/mili.mne"><img src="https://img.shields.io/badge/-@mili.mne-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/Milagros Milagros"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 
